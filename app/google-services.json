@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "471282204347",
+    "firebase_url": "https://firebasaedatabasedemo.firebaseio.com",
+    "project_id": "firebasaedatabasedemo",
+    "storage_bucket": "firebasaedatabasedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471282204347:android:3bbbc7fad82015fc",
+        "android_client_info": {
+          "package_name": "com.demo.pramod.firebasedatabasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471282204347-k4od0enhqo1k9l33kq639l8d14k2e8ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFaXUgbc9gjyyNCxt7Vs1HGvFoAW6qI-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
